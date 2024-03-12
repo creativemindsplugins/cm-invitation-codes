@@ -21,21 +21,21 @@ Exercise exclusive control over site registrations. Seamlessly embed a login int
 
 ## Registration Plugin Premium Editions
 
-The [upgraded Premium edition version of the Registration Plugin](https://www.cminds.com/wordpress-plugins-library/registration-and-invitation-codes-plugin-for-wordpress/) feature a robust set of improvements: it support user registration through unique invitation codes, integrate payment options with WooCommerce and Easy Digital Downloads, allow for the assignment of distinct user roles, include social media sign-in functionality, and come with many other substantial enhancements.
+The [upgraded Premium edition version of the Registration Plugin](https://www.cminds.com/wordpress-plugins-library/registration-and-invitation-codes-plugin-for-wordpress/) feature a robust set of improvements: it supports user registration through unique invitation codes, integrate payment options with WooCommerce and Easy Digital Downloads, allow for the assignment of distinct user roles, include social media sign-in functionality, and come with many other substantial enhancements.
 
 ## Use Cases
 
 <details><summary> <b>Expand</b> </summary>
 
 * **Login and Registration for users in single page** – Users experience a streamlined sign-in and registration process within a pop-up, without page redirection post-authentication.
-* **Two E-mail Confirmation** (pro-version) – Strengthen security by mandating dual email confirmations for new user regs.
-* **Tailored Registration Query Builder** (pro-version) – Customize your reg forms with questions tailored to different user roles.
+* **Two E-mail Confirmation** (pro version) – Strengthen security by mandating dual email confirmations for new user regs.
+* **Tailored Registration Query Builder** (pro version) – Customize your reg forms with questions tailored to different user roles.
 * **Short-code Functionality** – Deploy login and reg operations on any page or post with the convenience of shortcodes.
-* **By-Invitation Registration** (pro-version) – Keep user registration exclusive by allowing only invited individuals to sign up.
-* **Capped Invitation Codes** (pro-version) – Control the user intake by setting limits on the usage of each set of invitation codes.
-* **Time-Bound Registration Codes** (pro-version) – Create time-sensitive invitation codes for user registration.
-* **Pre-Set Role Designation** (pro-version) – Automate the assignment of user roles post-registration linked to specific invitation codes.
-* **Reset Password Shortcode** (pro-version) – Offer users a straightforward password recovery option via a shortcode placed beneath the login panel.
+* **By-Invitation Registration** (pro version) – Keep user registration exclusive by allowing only invited individuals to sign up.
+* **Capped Invitation Codes** (pro version) – Control the user intake by setting limits on the usage of each set of invitation codes.
+* **Time-Bound Registration Codes** (pro version) – Create time-sensitive invitation codes for user registration.
+* **Pre-Set Role Designation** (pro version) – Automate the assignment of user roles post-registration linked to specific invitation codes.
+* **Reset Password Shortcode** (pro version) – Offer users a straightforward password recovery option via a shortcode placed beneath the login panel.
 
 </details>
 
