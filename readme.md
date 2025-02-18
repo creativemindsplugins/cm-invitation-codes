@@ -3,11 +3,13 @@
 * Name: Custom User Registration and Login Plugin
 * Contributors: CreativeMindsSolutions
 * Minimum WordPress version: 5.4.0
-* Tested up to WordPress version: 6.6
+* Tested up to WordPress version: 6.7.2
 
 ## Introduction
 
 [Pro Plugin Page](https://www.cminds.com/wordpress-plugins-library/registration-and-invitation-codes-plugin-for-wordpress/) | [Videos](https://www.videolessonsplugin.com/video-lesson/lesson/user-registration-invitation-codes-plugin/) | [User Guide](https://creativeminds.helpscoutdocs.com/category/637-registration-cmreg) 
+
+⭐ Meet the updated CM Registration! The new Setup Wizard makes the initial setup a breeze, and the addition of Invitation Codes simplifies the registration process for users and admins.
 
 **Optimize the WordPress authentication process with innovative AJAX-driven forms for logging in and signing up, providing a seamless on-page experience.**
 
@@ -31,7 +33,7 @@ The [upgraded Premium edition version of the Registration Plugin](https://www.cm
 * **Two E-mail Confirmation** (pro version) – Strengthen security by mandating dual email confirmations for new user regs.
 * **Tailored Registration Query Builder** (pro version) – Customize your reg forms with questions tailored to different user roles.
 * **Short-code Functionality** – Deploy login and reg operations on any page or post with the convenience of shortcodes.
-* **By-Invitation Registration** (pro version) – Keep user registration exclusive by allowing only invited individuals to sign up.
+* **By-Invitation Registration** – Keep user registration exclusive by allowing only invited individuals to sign up.
 * **Capped Invitation Codes** (pro version) – Control the user intake by setting limits on the usage of each set of invitation codes.
 * **Time-Bound Registration Codes** (pro version) – Create time-sensitive invitation codes for user registration.
 * **Pre-Set Role Designation** (pro version) – Automate the assignment of user roles post-registration linked to specific invitation codes.
@@ -46,7 +48,9 @@ The [upgraded Premium edition version of the Registration Plugin](https://www.cm
 * Display a pop-up window for user sign-in and sign-up procedures.
 * Utilize AJAX for a smooth user login and registration experience.
 * Ensure users remain on the current page following a successful login.
+* Simple invitation codes support.
 * Provide support for shortcodes to facilitate these features.
+* Setup Wizard helps configure the plugin quickly and easily.
 
 </details>
 
@@ -57,16 +61,20 @@ The [upgraded Premium edition version of the Registration Plugin](https://www.cm
 > [Pro Version Detailed Features List](https://www.cminds.com/wordpress-plugins-library/registration-and-invitation-codes-plugin-for-wordpress/)
 
 * ReCaptcha Integration
-* Support for Invitation Codes
+* Extended support for Invitation Codes
+* Users can generate invitation codes
 * Email Confirmation Feature
 * Auto-removal of Non-verified Email Users
 * Easy Modification of Plugin Texts
 * User Role Selection during Registration
 * User Role Management Functionality
+* Allows to create multi-step registration form
 * Inclusion of Extra Registration Forms
+* Age verification support
 * Role-Specific Registration Form Creation
 * Customizable Email Notification Templates
 * Post-registration Profile Editing
+* Provides a Restricted User Dashboard
 * Social Media Sign-up and Login with Facebook/Google
 * IP-based Access Restrictions for Registration and Login
 * Login Attempt Limitation
